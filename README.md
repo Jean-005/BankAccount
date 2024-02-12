@@ -1,6 +1,6 @@
 # BankAccount
 
-I created a Bank Account repo twice. Each time I tried merging the Github repo with my local one, they failed to merge. I kept encountering error messages that I tried to resolve but I think at some point I ended up creating a repo inside of another one. I would have liked to make multiple commits as I did this lab but I was unable to push my code up to Github at any stage. please find below the error messages I encountered:
+I created a Bank Account repo twice. Each time I tried merging the Github repo with my local one, they failed to merge. I kept encountering error messages that I tried to resolve but I think at some point I ended up creating a repo inside of another one. I would have liked to make multiple commits as I did this lab but I was unable to push my code up to Github at any stage. Please find below the error messages I encountered:
 
 ======
 
