@@ -71,7 +71,7 @@ public class BankAccountTest {
     @Test
     public void canDepositFunds() {
         bankAccount.deposit(30);
-        assertThat(bankAccount.getBalance()).isEqualTo(30);
+        assertThat(bankAccount.getBalance()).isEqualTo(130);
 
     }
 
@@ -83,8 +83,8 @@ public class BankAccountTest {
 
     @Test
     public void canPayInterest(){
-        bankAccount.payInterest(0.02);
-        assertThat(bankAccount.getBalance()).isEqualTo(100.02);
+        bankAccount.payInterest(2);
+        assertThat(bankAccount.getBalance()).isEqualTo(102);
     }
 
 
